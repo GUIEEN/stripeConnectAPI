@@ -1,5 +1,5 @@
 import Router from 'express-promise-router'
-import * as stripe from './stripeCustom'
+import * as stripe from './stripe'
 
 const router = Router()
 
